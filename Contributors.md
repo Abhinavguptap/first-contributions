@@ -2639,6 +2639,7 @@ Merjen Amanmuradova
 - [x](https://github.com/kirobotdev)
 - Samruddhi..
 - [Rafael ISTE](https://github.com/RafaelIste)
+- [Abhinav Gupta](https://github.com/Abhinavguptap)
 - [Rithika](https://github.com/Rithika0718)
 - [Venkata Ganapathi Subramanian](https://github.com/venkata0803)
 - [Michaelangelo Labrador](https://github.com/labram13)
